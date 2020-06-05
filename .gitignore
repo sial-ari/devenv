@@ -1,1 +1,3 @@
 *.retry
+.gitsecret/keys/random_seed
+SECRET.md
